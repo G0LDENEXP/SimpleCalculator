@@ -1,0 +1,30 @@
+﻿  AboutForm.cpp
+E:\Jovan\C++ GUI\CoolCalculator\MyForm.h(220,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'AboutForm.cpp')
+  
+E:\Jovan\C++ GUI\CoolCalculator\MyForm.h(226,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'AboutForm.cpp')
+  
+E:\Jovan\C++ GUI\CoolCalculator\MyForm.h(232,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'AboutForm.cpp')
+  
+E:\Jovan\C++ GUI\CoolCalculator\MyForm.h(238,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'AboutForm.cpp')
+  
+  MyForm.cpp
+E:\Jovan\C++ GUI\CoolCalculator\MyForm.h(220,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+E:\Jovan\C++ GUI\CoolCalculator\MyForm.h(226,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+E:\Jovan\C++ GUI\CoolCalculator\MyForm.h(232,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+E:\Jovan\C++ GUI\CoolCalculator\MyForm.h(238,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+E:\Jovan\C++ GUI\CoolCalculator\MyForm.cpp(9,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  AboutForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CoolCalculator.vcxproj -> E:\Jovan\C++ GUI\CoolCalculator\x64\Debug\CoolCalculator.exe

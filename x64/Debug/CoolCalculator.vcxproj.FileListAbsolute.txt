@@ -1,0 +1,5 @@
+E:\Jovan\C++ GUI\CoolCalculator\x64\Debug\CoolCalculator.vcxproj.AssemblyReference.cache
+E:\Jovan\C++ GUI\CoolCalculator\x64\Debug\CoolCalculator.MyForm.resources
+E:\Jovan\C++ GUI\CoolCalculator\x64\Debug\CoolCalculator.vcxproj.GenerateResource.cache
+E:\Jovan\C++ GUI\CoolCalculator\x64\Debug\CoolCalculator.exe
+E:\Jovan\C++ GUI\CoolCalculator\x64\Debug\CoolCalculator.AboutForm.resources
